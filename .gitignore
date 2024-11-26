@@ -3,8 +3,8 @@ DerivedDataCache/**
 Intermediate/**
 Saved/**
 
-# Exceptions
-!Content/ParagonGideon/Characters/Heroes/Gideon/GideonPlayerCharacter.uasset
+# Ignored Paragon File Exceptions
+!GideonPlayerCharacter.uasset
 
 # Ignored Conetent Files
 Content/ParagonGideon/**
