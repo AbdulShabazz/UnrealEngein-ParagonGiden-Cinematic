@@ -1,3 +1,14 @@
+# Folders
+DerivedDataCache/**
+Intermediate/**
+Saved/**
+
+# Paragon Files
+Content/ParagonGideon/**
+
+# Exceptions
+!Content/ParagonGideon/Characters/Heroes/Gideon/GideonPlayerCharacter.uasset
+
 # Prerequisites
 *.d
 
