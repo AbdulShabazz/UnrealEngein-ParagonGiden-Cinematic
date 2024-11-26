@@ -4,7 +4,7 @@ Intermediate/**
 Saved/**
 
 # Ignored Paragon File Exceptions
-GideonPlayerCharacter.uasset
+!Content/ParagonGideon/Characters/Heroes/Gideon/GideonPlayerCharacter.uasset
 
 # Ignored Conetent Files
 Content/ParagonGideon/**
