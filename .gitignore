@@ -1,14 +1,14 @@
 # Folders
-DerivedDataCache/**
-Intermediate/**
-Saved/**
+/DerivedDataCache/**
+/Intermediate/**
+/Saved/**
 
-# Ignored Paragon File Exceptions
-!Content/ParagonGideon/Characters/Heroes/Gideon/GideonPlayerCharacter.uasset
+# Include Paragon File Blueprints
+!/Content/ParagonGideon/Characters/Heroes/Gideon/GideonPlayerCharacter.uasset
 
-# Ignored Conetent Files
-Content/ParagonGideon/**
-Content/StarterContent/**
+# Ignored Content Files
+/Content/ParagonGideon/**
+/Content/StarterContent/**
 
 # Prerequisites
 *.d
