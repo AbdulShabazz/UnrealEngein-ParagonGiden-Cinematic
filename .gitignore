@@ -1,16 +1,16 @@
 # Ignore Paragon Content Files
-/Content/ParagonGideon/**
+Content/ParagonGideon/**
 
-# Include Paragon File Blueprints
-!/Content/ParagonGideon/Characters/Heroes/Gideon/GideonPlayerCharacter.uasset
+# Include Paragon Blueprints
+!Content/ParagonGideon/Characters/Heroes/Gideon/GideonPlayerCharacter.uasset
 
 # Ignore StarterContent Files
-/Content/StarterContent/**
+Content/StarterContent/**
 
 # Ignore Folders
-/DerivedDataCache/**
-/Intermediate/**
-/Saved/**
+DerivedDataCache/**
+Intermediate/**
+Saved/**
 
 # Prerequisites
 *.d
