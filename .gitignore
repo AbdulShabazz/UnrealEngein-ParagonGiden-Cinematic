@@ -1,4 +1,6 @@
 # Ignore Paragon Content Files
+Content/Dragon_Rise/**
+Content/RealisticDesertPack/**
 Content/ParagonGideon/**
 
 # Include Paragon Blueprints
