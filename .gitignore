@@ -1,10 +1,12 @@
 # Ignore Paragon Content Files
 Content/Dragon_Rise/**
 Content/RealisticDesertPack/**
+Content/Tactical_Fantasy_Sword/**
 Content/ParagonGideon/**
 
 # Include Paragon Blueprints
 !Content/ParagonGideon/Characters/Heroes/Gideon/GideonPlayerCharacter.uasset
+!Content/Tactical_Fantasy_Sword/Textures/Tactical_Fantasy_Sword_LHS_Transparent.png
 
 # Ignore Folders
 Content/StarterContent/**
