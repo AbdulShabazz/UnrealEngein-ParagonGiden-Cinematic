@@ -3,6 +3,7 @@ Content/Dragon_Rise/**
 Content/RealisticDesertPack/**
 Content/Tactical_Fantasy_Sword/**
 Content/ParagonGideon/**
+Content/Gothic_Castle/**
 
 # Include Paragon Blueprints
 !Content/ParagonGideon/Characters/Heroes/Gideon/GideonPlayerCharacter.uasset
