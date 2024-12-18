@@ -1,5 +1,5 @@
 # UnrealEngine-ParagonGideon-Cinematic
-A Third Person Character Level Developed in Blueprints which records the player camera for replay in cinematics.
+A Third Person Character Level Developed in Blueprints which also records the default player camera for replay in cinematics.
 
 **Note:**
 
